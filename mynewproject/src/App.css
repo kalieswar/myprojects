@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.fonts{
+  font-weight: 700 !important;
+  line-height: 1.2 !important;
+  text-decoration: none!important;
+}
+.fontss{
+  font-size: 20px !important;
+  color: blue !important;
+  font-weight: 700 !important;
+  text-decoration: none !important;
+}
+
+.navbar-nav .nav-link{
+  font-size: 20px !important;
+  color: blue;
+  font-weight: 700 !important;
+}
+.carouselsizing{
+  font-weight: 700 !important;
+}
+.carousel-caption button:hover{
+  background-color: #dc3545 !important;
+}
+.carousel-caption .btn-danger:hover{
+  background-color: #0b5ed7 !important;
+}
+.cord{
+  height: 150px;
+}
+.imm{
+  width: 30%;
+}
+.iconn{
+  width:100%;
+  height: 50px;
+  color: white;
+}
+.fntweight{
+  font-weight: 700 !important;
+
+}
+.cctvicon{
+  width: 80px;
+  height: 100px;
+  color:#dc3545
+}
+.services-atag{
+  text-decoration: none;
+}
+.bg-lightt{
+  background-color: #a1c4f6 !important;
+  margin-left: 0px;
+}
+.bg-offer{
+  background: url(./../public/img/carousel-2.jpg);
+  background-size: cover;
+}
+.none{
+  width: 100%;
+  height: 200px;
+  background-color: #dc3545;
+}
